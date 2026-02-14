@@ -1,7 +1,7 @@
 # mobile
 Programação Mobile
 
-# 📱 Nome do Projeto Mobile (Kotlin/Swift)
+### 📱 Nome do Projeto Mobile (Kotlin/Swift)
 
 ## 📝 Descrição
 Breve resumo do que o aplicativo faz, qual problema resolve e o seu principal diferencial.
